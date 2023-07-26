@@ -1,0 +1,2 @@
+# ads.txt file for hergames.weebly.com:
+google.com, pub-6964475945731879, DIRECT, f08c47fec0942fa0
